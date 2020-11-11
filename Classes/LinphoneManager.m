@@ -75,7 +75,7 @@ NSString *const kLinphoneFileTransferRecvUpdate = @"LinphoneFileTransferRecvUpda
 NSString *const kLinphoneQRCodeFound = @"LinphoneQRCodeFound";
 NSString *const kLinphoneChatCreateViewChange = @"LinphoneChatCreateViewChange";
 
-NSString *const kLinphoneMsgNotificationAppGroupId = @"group.org.linphone.phone.msgNotification";
+NSString *const kLinphoneMsgNotificationAppGroupId = @"group.communications.duoqin.widget";
 
 const int kLinphoneAudioVbrCodecDefaultBitrate = 36; /*you can override this from linphonerc or linphonerc-factory*/
 
